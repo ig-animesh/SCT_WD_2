@@ -1,5 +1,6 @@
 # SCT_WD_2
 StopWatch Application
+
 Overview
 A user-friendly stopwatch web application that allows users to measure and record time intervals. The application features start, pause, and reset functions, as well as lap time tracking and display.
 
